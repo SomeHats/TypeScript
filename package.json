@@ -125,7 +125,8 @@
         "buffer": false,
         "@microsoft/typescript-etw": false,
         "source-map-support": false,
-        "inspector": false
+        "inspector": false,
+        "perf_hooks": false
     },
     "volta": {
         "node": "14.15.5"
